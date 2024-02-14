@@ -45,7 +45,7 @@ function scrollDown() {
             nextSection.scrollIntoView({behavior: "smooth"})
             break;
         case 6: 
-            nextSection = document.getElementById('section-sevem');
+            nextSection = document.getElementById('section-seven');
             nextSection.scrollIntoView({behavior: "smooth"})
             break;
         case 7: 
